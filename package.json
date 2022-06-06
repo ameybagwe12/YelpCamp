@@ -15,7 +15,7 @@
     "amr": "^0.0.1",
     "cloudinary": "^1.30.0",
     "connect-flash": "^0.1.1",
-    "connect-mongo": "^4.6.0",
+    "connect-mongo": "^3.2.0",
     "connect-mongodb-session": "^3.1.1",
     "dotenv": "^16.0.1",
     "ejs": "^3.1.6",
